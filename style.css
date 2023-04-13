@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+label {
+    display: block;
+}
+
+fieldset {
+    background-color: #EEE;
+    margin-bottom: 20px;
+    border: 2px solid rgb(63, 3, 3);
+}
+
+legend {
+    background-color: rgb(71, 5, 5);
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+input {
+    margin-bottom: 10px;
+}
